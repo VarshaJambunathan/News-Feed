@@ -1,7 +1,7 @@
 # News-Feed
 The goal is to create a News feed app which gives a user regularly-updated news from the internet related to a particular topic, person, or location. This project uses Guardian API.
 
-This project is about combining various ideas and skills we’ve been practicing throughout the course. They include:
+This project is about combining various ideas and skills to achieve : 
 
 1. Connecting to an API
 2. Parsing the response of the API
